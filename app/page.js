@@ -124,7 +124,7 @@ export default function Home() {
                 transition={{ duration: 0.2 }}
                 className="text-lg VCR-font-family md:text-2xl mb-1 font-vcr"
               >
-                //{currentTitle}
+                 {`//${currentTitle}`}
               </motion.p>
             </AnimatePresence>
             <h1 className="font-normal md:leading-12 text-glow leading-6 text-[#FFFFFF] text-xl VCR-font-family md:text-[46px] uppercase ">

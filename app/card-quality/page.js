@@ -338,7 +338,7 @@ export default function CardQualityPage() {
                         {/* Header Section */}
                         <div className="bg-[#00000080] rounded-2xl p-8 mb-8">
                             <p className="text-white font-teko text-center font-light leading-7 text-[28px]">
-                                Each condition allows for a certain amount of "points" of imperfections.
+                                Each condition allows for a certain amount of  &quot; points &quot; of imperfections.
                             </p>
                             <p className="text-white font-teko text-center font-light mb-[21px] text-[28px]">
                                 We use the following scale to determine the aggregate impact of imperfections
