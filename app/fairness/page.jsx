@@ -20,7 +20,7 @@ const tabs = [
   { id: 'pool', label: 'CARD POOL', component: <CardPool /> },
 ];
 
-const page = () => {
+const FairnessPage = () => {
 
   const [activeTab, setActiveTab] = useState('over');
 
@@ -54,4 +54,4 @@ const page = () => {
   )
 }
 
-export default page
+export default FairnessPage
